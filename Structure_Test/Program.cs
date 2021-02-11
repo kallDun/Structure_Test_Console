@@ -40,7 +40,6 @@ namespace Structure_Test
         }
     }
 
-
     class Program
     {
         static void Main(string[] args)
@@ -54,4 +53,5 @@ namespace Structure_Test
             Console.WriteLine(person1.birthDay);
         }
     }
+
 }
